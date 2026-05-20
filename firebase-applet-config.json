@@ -1,9 +1,9 @@
 {
-  "projectId": "jumping-bonfire-zszp9",
-  "appId": "1:663004341378:web:c4b6ce29f47671c1a7c09b",
-  "apiKey": "AIzaSyAM5YgmifbCRCgSaYJk5tGx6BcgHcqjQQ4",
-  "authDomain": "jumping-bonfire-zszp9.firebaseapp.com",
-  "storageBucket": "jumping-bonfire-zszp9.firebasestorage.app",
-  "messagingSenderId": "663004341378",
-  "measurementId": ""
+  apiKey: "AIzaSyDLzadxxs4a8Ac-WiAGudm8AXkKIqzVODg",
+  authDomain: "lead-finder-c3c68.firebaseapp.com",
+  projectId: "lead-finder-c3c68",
+  storageBucket: "lead-finder-c3c68.firebasestorage.app",
+  messagingSenderId: "1087201515024",
+  appId: "1:1087201515024:web:0a19ad1da100265e4d9c95",
+  measurementId: "G-HZB29WV8WC"
 }
