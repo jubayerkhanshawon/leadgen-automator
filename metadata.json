@@ -1,0 +1,6 @@
+{
+  "name": "B2B Lead Generation Tool",
+  "description": "An automation tool to generate B2B leads by searching and scraping business details, websites, emails, and social links.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
